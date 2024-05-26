@@ -2,10 +2,8 @@
 
 Bahmutova Polina, 11 group
 
-# Usage
+# Note
 
-all steps in the report
+[TASK-3](https://github.com/fpmi-tp2024/tpmp11a-lab3-task3-Polina-Bakhmutova)
 
-# Building
 
-New information *

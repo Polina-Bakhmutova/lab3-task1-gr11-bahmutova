@@ -4,7 +4,7 @@ Bahmutova Polina, 11 group
 
 # Usage
 
-New information
+all steps in the report
 
 # Building
 
